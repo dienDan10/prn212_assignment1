@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HotelManagementWPFApp"
         mc:Ignorable="d"
-        Title="Admin" Height="450" Width="800"
+        Title="Admin" Height="500" Width="800"
         WindowStartupLocation="CenterScreen">
     <TabControl Name="tabMain"
                     TabStripPlacement="Top">
@@ -25,6 +25,8 @@
                     <RowDefinition Height="40"/>
                     <RowDefinition Height="20"/>
                     <RowDefinition Height="1*"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="10"/>
                 </Grid.RowDefinitions>
 
                 <StackPanel Grid.Row="1"
@@ -91,7 +93,13 @@
                           Name="dgCustomer"
                           SelectionChanged="dgCustomer_SelectionChanged"></DataGrid>
 
-
+                <Button Name="btnLogout1"
+                        Grid.Column="1"
+                        Grid.Row="6"
+                        Content="Logout"
+                        Width="100"
+                        Height="30"
+                        Click="btnLogout_Clicked"></Button>
 
             </Grid>
             
@@ -113,6 +121,8 @@
                     <RowDefinition Height="40"/>
                     <RowDefinition Height="20"/>
                     <RowDefinition Height="1*"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="10"/>
                 </Grid.RowDefinitions>
                 <StackPanel Grid.Row="1"
                             Grid.Column="1"
@@ -180,6 +190,14 @@
                           Name="dgRoom"
                           SelectionChanged="dgRoom_SelectionChanged"></DataGrid>
 
+                <Button Name="btnLogout2"
+                        Grid.Column="1"
+                        Grid.Row="6"
+                        Content="Logout"
+                        Width="100"
+                        Height="30"
+                        Click="btnLogout_Clicked"></Button>
+                
             </Grid>
         </TabItem>
         

@@ -15,3 +15,4 @@ D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment1\Reposit
 D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment1\Repository\obj\Debug\net8.0\refint\Repository.dll
 D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment1\Repository\obj\Debug\net8.0\Repository.pdb
 D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment1\Repository\obj\Debug\net8.0\ref\Repository.dll
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment1\Repository\obj\Debug\net8.0\Repository.sourcelink.json

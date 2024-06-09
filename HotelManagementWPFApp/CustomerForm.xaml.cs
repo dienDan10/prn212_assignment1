@@ -69,5 +69,12 @@ namespace HotelManagementWPFApp
             dgBookingReservation.ItemsSource = reservation;
 
         }
+
+        private void btnLogout_Clicked(object sender, RoutedEventArgs e)
+        {
+            LoginForm loginForm = new LoginForm();
+            loginForm.Show();
+            this.Close();
+        }
     }
 }

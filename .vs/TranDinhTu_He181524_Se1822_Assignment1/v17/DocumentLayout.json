@@ -3,23 +3,31 @@
   "WorkspaceRootPath": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\TranDinhTu_He181524_Se1822_Assignment1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E584941F-E135-4E9F-9E71-282433D36550}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|D:\\Desktop\\Summer 2024\\PRN212\\WPF\\TranDinhTu_He181524_Se1822_Assignment1\\hotelmanagementwpfapp\\customerform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E584941F-E135-4E9F-9E71-282433D36550}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\customerform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584941F-E135-4E9F-9E71-282433D36550}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|D:\\Desktop\\Summer 2024\\PRN212\\WPF\\TranDinhTu_He181524_Se1822_Assignment1\\hotelmanagementwpfapp\\customerform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E584941F-E135-4E9F-9E71-282433D36550}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\customerform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584941F-E135-4E9F-9E71-282433D36550}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|d:\\desktop\\summer 2024\\prn212\\wpf\\trandinhtu_he181524_se1822_assignment1\\hotelmanagementwpfapp\\loginform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E584941F-E135-4E9F-9E71-282433D36550}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\loginform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584941F-E135-4E9F-9E71-282433D36550}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|d:\\desktop\\summer 2024\\prn212\\wpf\\trandinhtu_he181524_se1822_assignment1\\hotelmanagementwpfapp\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E584941F-E135-4E9F-9E71-282433D36550}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E584941F-E135-4E9F-9E71-282433D36550}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|d:\\desktop\\summer 2024\\prn212\\wpf\\trandinhtu_he181524_se1822_assignment1\\hotelmanagementwpfapp\\customerupdateinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E584941F-E135-4E9F-9E71-282433D36550}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\customerupdateinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E584941F-E135-4E9F-9E71-282433D36550}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|d:\\desktop\\summer 2024\\prn212\\wpf\\trandinhtu_he181524_se1822_assignment1\\hotelmanagementwpfapp\\customerform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E584941F-E135-4E9F-9E71-282433D36550}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\customerform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DE05C78-97AB-4AB3-8959-282143FDC45B}|Repository\\Repository.csproj|d:\\desktop\\summer 2024\\prn212\\wpf\\trandinhtu_he181524_se1822_assignment1\\repository\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DE05C78-97AB-4AB3-8959-282143FDC45B}|Repository\\Repository.csproj|D:\\Desktop\\Summer 2024\\PRN212\\WPF\\TranDinhTu_He181524_Se1822_Assignment1\\repository\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DE05C78-97AB-4AB3-8959-282143FDC45B}|Repository\\Repository.csproj|solutionrelative:repository\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E584941F-E135-4E9F-9E71-282433D36550}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|d:\\desktop\\summer 2024\\prn212\\wpf\\trandinhtu_he181524_se1822_assignment1\\hotelmanagementwpfapp\\customerform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E584941F-E135-4E9F-9E71-282433D36550}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\customerform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B0E660A-837A-427D-B0B4-F7452C26ED97}|DataAccessLayer\\DataAccessLayer.csproj|d:\\desktop\\summer 2024\\prn212\\wpf\\trandinhtu_he181524_se1822_assignment1\\dataaccesslayer\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B0E660A-837A-427D-B0B4-F7452C26ED97}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Desktop\\Summer 2024\\PRN212\\WPF\\TranDinhTu_He181524_Se1822_Assignment1\\dataaccesslayer\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B0E660A-837A-427D-B0B4-F7452C26ED97}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,24 +38,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\TranDinhTu_He181524_Se1822_Assignment1\\HotelManagementWPFApp\\Admin.xaml",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\Admin.xaml",
+              "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\TranDinhTu_He181524_Se1822_Assignment1\\HotelManagementWPFApp\\Admin.xaml",
+              "RelativeToolTip": "HotelManagementWPFApp\\Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T11:45:44.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CustomerUpdateInfo.xaml.cs",
               "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\TranDinhTu_He181524_Se1822_Assignment1\\HotelManagementWPFApp\\CustomerUpdateInfo.xaml.cs",
               "RelativeDocumentMoniker": "HotelManagementWPFApp\\CustomerUpdateInfo.xaml.cs",
               "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\TranDinhTu_He181524_Se1822_Assignment1\\HotelManagementWPFApp\\CustomerUpdateInfo.xaml.cs",
               "RelativeToolTip": "HotelManagementWPFApp\\CustomerUpdateInfo.xaml.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwE8AAAAxAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T16:27:21.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "CustomerForm.xaml",
               "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\TranDinhTu_He181524_Se1822_Assignment1\\HotelManagementWPFApp\\CustomerForm.xaml",
               "RelativeDocumentMoniker": "HotelManagementWPFApp\\CustomerForm.xaml",
@@ -59,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "BookingDetailDAO.cs",
               "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\TranDinhTu_He181524_Se1822_Assignment1\\DataAccessLayer\\BookingDetailDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\BookingDetailDAO.cs",
@@ -67,12 +87,11 @@
               "RelativeToolTip": "DataAccessLayer\\BookingDetailDAO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T16:20:24.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T16:20:24.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "BookingDetailRepository.cs",
               "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\TranDinhTu_He181524_Se1822_Assignment1\\Repository\\BookingDetailRepository.cs",
               "RelativeDocumentMoniker": "Repository\\BookingDetailRepository.cs",
@@ -80,20 +99,32 @@
               "RelativeToolTip": "Repository\\BookingDetailRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T16:07:30.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T16:07:30.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CustomerForm.xaml.cs",
               "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\TranDinhTu_He181524_Se1822_Assignment1\\HotelManagementWPFApp\\CustomerForm.xaml.cs",
               "RelativeDocumentMoniker": "HotelManagementWPFApp\\CustomerForm.xaml.cs",
               "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\TranDinhTu_He181524_Se1822_Assignment1\\HotelManagementWPFApp\\CustomerForm.xaml.cs",
               "RelativeToolTip": "HotelManagementWPFApp\\CustomerForm.xaml.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAADwvysAAAAlAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAIAwwEwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T16:06:44.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\TranDinhTu_He181524_Se1822_Assignment1\\HotelManagementWPFApp\\LoginForm.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\LoginForm.xaml.cs",
+              "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\WPF\\TranDinhTu_He181524_Se1822_Assignment1\\HotelManagementWPFApp\\LoginForm.xaml.cs",
+              "RelativeToolTip": "HotelManagementWPFApp\\LoginForm.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:50:48.982Z",
               "EditorCaption": ""
             }
           ]

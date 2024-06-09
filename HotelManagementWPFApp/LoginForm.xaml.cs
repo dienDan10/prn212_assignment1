@@ -37,7 +37,7 @@ namespace HotelManagementWPFApp
             {
                 Admin admin = new Admin();
                 admin.Show();
-                this.Hide();
+                this.Close();
                 return;
             }
 
@@ -52,7 +52,7 @@ namespace HotelManagementWPFApp
             CustomerForm customerForm = new CustomerForm();
             customerForm.SetCustomer(customer);
             customerForm.Show();
-            this.Hide(); 
+            this.Close(); 
             return;
         }
     }

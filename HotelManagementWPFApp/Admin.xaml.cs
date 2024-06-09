@@ -251,5 +251,12 @@ namespace HotelManagementWPFApp
             string id = ((TextBlock)cell.Content).Text.ToString();
             selectedRoomId = int.Parse(id);
         }
+
+        private void btnLogout_Clicked(object sender, RoutedEventArgs e)
+        {
+            LoginForm loginForm = new LoginForm();
+            loginForm.Show();
+            this.Close();
+        }
     }
 }

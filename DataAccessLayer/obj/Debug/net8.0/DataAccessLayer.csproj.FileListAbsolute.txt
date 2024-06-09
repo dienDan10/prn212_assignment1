@@ -13,3 +13,4 @@ D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment1\DataAcc
 D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment1\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
 D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment1\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
 D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment1\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\Desktop\Summer 2024\PRN212\WPF\TranDinhTu_He181524_Se1822_Assignment1\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HotelManagementWPFApp"
         mc:Ignorable="d"
-        Title="Customer" Height="450" Width="800"
+        Title="Customer" Height="500" Width="800"
         WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid.ColumnDefinitions>
@@ -19,6 +19,7 @@
             <RowDefinition Height="50"/>
             <RowDefinition Height="30"/>
             <RowDefinition Height="1*"/>
+            <RowDefinition Height="50"/>
             <RowDefinition Height="10"/>
         </Grid.RowDefinitions>
 
@@ -50,6 +51,14 @@
                   CanUserAddRows="False"
                   Name="dgBookingReservation"
       ></DataGrid>
+        <Button Name="btnLogout"
+                Grid.Column="1"
+                Grid.Row="5"
+                Width="100"
+                Height="40"
+                Content="Logout"
+                FontSize="16"
+                Click="btnLogout_Clicked"></Button>
 
     </Grid>
 </Window>
